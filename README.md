@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leslieroyer
 - 👀 I’m interested in creating educational games for schools
 - 🌱 I’m currently learning unity and kotlin
-- 💞️ I’m looking to collaborate on anything. I am learning to code and have no experience at all.
+- 💞️ I’m looking to collaborate on anything. I am learning to code and have no experience at all. But I am a teacher and have LOTS of ideas for games!
 - 📫 How to reach me leslieroyer@aol.com
 
 <!---
